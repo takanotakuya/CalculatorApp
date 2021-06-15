@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B079A790265261760084ADE8 /* CalculatorViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B079A78F265261760084ADE8 /* CalculatorViewCell.swift */; };
 		B09E56232650DEC400D700C0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B09E56222650DEC400D700C0 /* AppDelegate.swift */; };
 		B09E56252650DEC400D700C0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B09E56242650DEC400D700C0 /* SceneDelegate.swift */; };
 		B09E56272650DEC400D700C0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B09E56262650DEC400D700C0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B079A78F265261760084ADE8 /* CalculatorViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewCell.swift; sourceTree = "<group>"; };
 		B09E561F2650DEC400D700C0 /* CalculatorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B09E56222650DEC400D700C0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B09E56242650DEC400D700C0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				B09E56222650DEC400D700C0 /* AppDelegate.swift */,
 				B09E56242650DEC400D700C0 /* SceneDelegate.swift */,
 				B09E56262650DEC400D700C0 /* ViewController.swift */,
+				B079A78F265261760084ADE8 /* CalculatorViewCell.swift */,
 				B09E56282650DEC400D700C0 /* Main.storyboard */,
 				B09E562B2650DEC900D700C0 /* Assets.xcassets */,
 				B09E562D2650DEC900D700C0 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B079A790265261760084ADE8 /* CalculatorViewCell.swift in Sources */,
 				B09E56272650DEC400D700C0 /* ViewController.swift in Sources */,
 				B09E56232650DEC400D700C0 /* AppDelegate.swift in Sources */,
 				B09E56252650DEC400D700C0 /* SceneDelegate.swift in Sources */,
